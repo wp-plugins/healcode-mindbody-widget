@@ -20,7 +20,7 @@
     <tr>
         
         <td style="float:right;">
-            <a class="hc_header_link" style="margin-left:8px;" target="_blank" href="https://wordpress.org/plugins/healcode-mb-widget/">About</a>
+            <a class="hc_header_link" style="margin-left:8px;" target="_blank" href="https://wordpress.org/plugins/healcode-mindbody-widget/">About</a>
         </td>
         <td style="float:right;">
             <a class="hc_header_link" target="_blank" href="http://www.healcode.com">HealCode</a>
