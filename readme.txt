@@ -99,4 +99,5 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 
 = 1.0.1 = 
 * Styling changes
-
+= 1.0.2 = 
+* Image change
