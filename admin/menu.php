@@ -78,7 +78,7 @@ function hc_hmw_add_style_script(){
 	
 	
 	// Register stylesheets
-	wp_register_style('hc_hmw_style', plugins_url('healcode_mb_widget/css/hc_hmw_styles.css'));
+	wp_register_style('hc_hmw_style', plugins_url('../css/hc_hmw_styles.css'));
 	wp_enqueue_style('hc_hmw_style');
 }
 add_action('admin_enqueue_scripts', 'hc_hmw_add_style_script');
