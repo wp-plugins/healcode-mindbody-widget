@@ -14,11 +14,11 @@ Add HealCode Widgets, which display your MINDBODY information, to your WordPress
 
 == Description ==
 
-Now you can add your HealCode Widgets to your WordPress website using shortcodes! 
+**Now you can add your HealCode Widgets to your WordPress website using shortcodes!** 
 
-This plugin lets you generate a shortcode for your HealCode Widgets. The shortcodes can be used in your pages, posts and WordPress widgets to display your MINDBODY information.
+This plugin lets you generate a shortcode for your HealCode Widgets. The shortcodes can be used in your pages, posts, and WordPress widgets to display your MINDBODY information.
 
-HealCode syncs with your MINDBODY account and can display MINDBODY information including: classes, enrollments, appointments, staff biographies, class/enrollment descriptions, and more.
+HealCode syncs with your MINDBODY account and can display MINDBODY information including classes, enrollments, appointments, staff biographies, class/enrollment descriptions, and more.
 
 **NOTE** you will need a HealCode account to use this plugin. Visit [HealCode](http://www.healcode.com/ "HealCode") to sign up!
 
@@ -32,7 +32,7 @@ HealCode syncs with your MINDBODY account and can display MINDBODY information i
 
 == Installation ==
 
-1. Upload `healcode-mb-widget.php` to the `/wp-content/plugins/` directory
+1. Upload all the files and folders in the `healcode-mindbody-widget` folder to the `/wp-content/plugins/` directory
 2. In the admin panel under "Plugins" activate HealCode MINDBODY Widget
 
 
@@ -59,7 +59,7 @@ No, you will only need to create the Widget shortcode once. The exceptions to th
 
 = HealCode MINDOBDY Widget is not working properly. =
 
-Please check the WordPress version you are using. Make sure it meets the minimum version recommended by us. Make sure all files of the `healcode_mb_widget` plugin are uploaded to the folder `wp-content/plugins/`
+Please check the WordPress version you are using. Make sure it meets the minimum version recommended by us. Make sure all files of the `healcode_mindbody_widget` plugin are uploaded to the folder `wp-content/plugins/`
 
 Also, if you have updated the Widget Title for any Widget shortcodes, you will need to re-add the shortcode to your page, post, or WordPress widget. This is because changing the Widget Title changes the shortcode itself.
 
@@ -73,11 +73,10 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 
 == Screenshots ==
 
-1. This shows the “Add Widget Shortcode” page seen by the Admin
+1. The “Add Widget Shortcode” page in the WordPress Dashboard
 2. This is the Widget’s entry after adding a Widget shortcode; you have the options of deactivating the widget, editing it, or deleting it.
-3. This shows the dropdown in the TinyMCE editor. Widgets can quickly and easily be added to pages.
+3. The dropdown in the TinyMCE editor. Widgets can quickly and easily be added to pages.
 4. This is a demo Schedule Widget that was installed using a Widget shortcode. Notice that the Schedule Widget is displaying real-time information from our demo MINDBODY account.
-
 
 
 == Requirements ==
@@ -98,6 +97,6 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 
 == Upgrade Notice ==
 
-= 1.0.0 = 
-* First version
+= 1.0.1 = 
+* Styling changes
 
