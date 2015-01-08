@@ -43,7 +43,7 @@ if(floatval(get_bloginfo('version'))>=3.9)
 
 	$hc_snippets = array(
                 'title'   =>'HealCode MINDBODY Widget',
-				'url'	=> plugins_url('images/hclogo.png'),
+				'url'	=> plugins_url('healcode-mindbody-widget/images/hclogo.png'),
                 'hc_hmw_snippets' => $hc_snippets_arr
             );
 	?>

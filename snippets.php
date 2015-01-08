@@ -121,7 +121,7 @@ id="system_notice_area_dismiss">Dismiss</span>
 						<td style="text-align: center;"><a
 							href='<?php echo admin_url('admin.php?page=insert-html-short-manage&action=snippet-status&snippetId='.$entry->id.'&status=1&pageno='.$pagenum); ?>'><img
 								id="img" title="Activate"
-								src="<?php echo plugins_url('images/activate.png')?>">
+								src="<?php echo plugins_url('healcode-mindbody-widget/images/activate.png')?>">
 						</a>
 						</td>
 							<?php 
@@ -130,7 +130,7 @@ id="system_notice_area_dismiss">Dismiss</span>
 						<td style="text-align: center;"><a
 							href='<?php echo admin_url('admin.php?page=insert-html-short-manage&action=snippet-status&snippetId='.$entry->id.'&status=2&pageno='.$pagenum); ?>'><img
 								id="img" title="Deactivate"
-								src="<?php echo plugins_url('images/pause.png')?>">
+								src="<?php echo plugins_url('healcode-mindbody-widget/images/pause.png')?>">
 						</a>
 						</td>		
 								<?php 	
@@ -141,14 +141,14 @@ id="system_notice_area_dismiss">Dismiss</span>
 						<td style="text-align: center;"><a
 							href='<?php echo admin_url('admin.php?page=insert-html-short-manage&action=snippet-edit&snippetId='.$entry->id.'&pageno='.$pagenum); ?>'><img
 								id="img" title="Edit Widget"
-								src="<?php echo plugins_url('images/edit.png')?>">
+								src="<?php echo plugins_url('healcode-mindbody-widget/images/edit.png')?>">
 						</a>
 						</td>
 						<td style="text-align: center;" ><a
 							href='<?php echo admin_url('admin.php?page=insert-html-short-manage&action=snippet-delete&snippetId='.$entry->id.'&pageno='.$pagenum); ?>'
 							onclick="javascript: return confirm('Please click \'OK\' to confirm ');"><img
 								id="img" title="Delete Widget"
-								src="<?php echo plugins_url('images/delete.png')?>">
+								src="<?php echo plugins_url('healcode-mindbody-widget/images/delete.png')?>">
 						</a></td>
 					</tr>
 					<?php
