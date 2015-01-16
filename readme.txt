@@ -106,7 +106,7 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 * Compatibility with WordPress 4.1
 = 1.0.1 =
 * Styling changes
-=1.0.2=
+= 1.0.2 =
 * Image change
 
 
