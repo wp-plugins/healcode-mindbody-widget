@@ -16,7 +16,7 @@ Add HealCode Widgets, which display your MINDBODY information, to your WordPress
 
 **Now you can add your HealCode Widgets to your WordPress website using shortcodes!** 
 
-This plugin lets you generate a shortcode for your HealCode Widgets. The shortcodes can be used in your pages, posts, and WordPress widgets to display your MINDBODY information.
+This plugin lets you generate shortcodes for your HealCode Widgets. The shortcodes can be used in your pages, posts, and WordPress widgets to display your MINDBODY information.
 
 HealCode syncs with your MINDBODY account and can display MINDBODY information including classes, enrollments, appointments, staff biographies, class/enrollment descriptions, and more.
 
