@@ -65,6 +65,10 @@ Want to switch to the plugin? Install a Widget using the plugin on a test page b
 
 You can find instructions for installing a Widget with the plugin [here](https://healcode.zendesk.com/hc/en-us/articles/203647654-Putting-widgets-on-WordPress-ORG-using-shortcodes-generated-by-a-plugin-Advanced-).
 
+= How are these Widgets different from my current HealCode Widgets ? =
+
+These are exactly the same Widgets that you are currently using. They are just installed differently.
+
 = HealCode MINDOBDY Widget is not working properly. =
 
 Please check the WordPress version you are using. Make sure it meets the minimum version recommended by us. Make sure all files of the `healcode_mindbody_widget` plugin are uploaded to the folder `wp-content/plugins/`
