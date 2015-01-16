@@ -57,6 +57,14 @@ You can find the code for each Widget in each Widget's control panel in the Heal
 
 No, you will only need to create the Widget shortcode once. The exceptions to this are if the shortcode is deleted from your WordPress Admin area or if you create a new website.
 
+= My Widgets are already installed, do I need this plugin ? =
+
+You do not **need** the plugin, but we recommend that you use it. The plugin makes it easier for you to manage pages on which Widgets are installed. 
+
+Want to switch to the plugin? Install a Widget using the plugin on a test page before you delete anything, if you prefer the plugin, you will need to delete your previous Widgets from your website and replace them with the plugin shortcodes.
+
+You can find instructions for installing a Widget with the plugin [here](https://healcode.zendesk.com/hc/en-us/articles/203647654-Putting-widgets-on-WordPress-ORG-using-shortcodes-generated-by-a-plugin-Advanced-).
+
 = HealCode MINDOBDY Widget is not working properly. =
 
 Please check the WordPress version you are using. Make sure it meets the minimum version recommended by us. Make sure all files of the `healcode_mindbody_widget` plugin are uploaded to the folder `wp-content/plugins/`
