@@ -30,10 +30,15 @@ HealCode syncs with your MINDBODY account and can display MINDBODY information i
 * Dropdown menu in TinyMCE editor to select Widget shortcodes easily
 
 
+
 == Installation ==
 
 1. Upload all the files and folders in the `healcode-mindbody-widget` folder to the `/wp-content/plugins/` directory
 2. In the admin panel under "Plugins" activate HealCode MINDBODY Widget
+
+= Using the Plugin = 
+
+[See our FAQ and video here.](https://healcode.zendesk.com/hc/en-us/articles/203647654)
 
 
 
