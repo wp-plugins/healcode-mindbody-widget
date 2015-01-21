@@ -113,6 +113,8 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 * Styling changes
 = 1.0.2 =
 * Image change
+= 1.0.3 =
+* Bug fix - fixed the shortcodes on the Widget Shortcodes screen
 
 
 
@@ -122,3 +124,5 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 * Styling changes
 = 1.0.2 = 
 * Image change
+= 1.0.3 =
+* Bug fix

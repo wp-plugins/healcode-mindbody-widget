@@ -103,7 +103,7 @@ id="system_notice_area_dismiss">Dismiss</span>
 						<td><?php 
 						if($entry->status == 2){echo 'NA';}
 						else
-						echo '[hc-hmw-snippet="'.esc_html($entry->title).'"]';
+						echo '[hc-hmw snippet="'.esc_html($entry->title).'"]';
 						?></td>
 						<td>
 							<?php 
