@@ -94,14 +94,14 @@ HealCode syncs with your MINDBODY account and can display MINDBODY information i
 * Fully customizable via CSS
 
 = Staff List Widget =
-* lists bios, photos and schedules of staff on a webpage
+* Lists bios, photos and schedules of staff on a webpage
 * Staff bios, photos and schedule from MINDBODY get pulled down into the widget
 * Changes to MINDBODY automatically update on the website
 * Sort and order staff when displayed by widget on the website
 * Fully customizable via CSS
 
 = Class List Widget =
-* lists class descriptions, photos and schedules of classes on a webpage
+* Lists class descriptions, photos and schedules of classes on a webpage
 * Class descriptions, photos and schedule from MINDBODY get pulled down into the widget
 * Changes to MINDBODY automatically update on the website
 * Fully customizable via CSS
