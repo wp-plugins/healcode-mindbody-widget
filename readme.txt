@@ -191,6 +191,7 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 * Image change
 = 1.0.3 =
 * Bug fix - fixed the shortcodes on the Widget Shortcodes screen
+* Updated the "readme.txt"
 
 
 
