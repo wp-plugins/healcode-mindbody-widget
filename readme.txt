@@ -33,76 +33,76 @@ HealCode syncs with your MINDBODY account and can display MINDBODY information i
 
 ([see this page for a description of our Buy Now links and My Account link](https://healcode.zendesk.com/hc/en-us/articles/202867484--What-are-Service-Links-i-e-Buy-Now-links-My-Account-links-and-Cart-links-))
 
-* Schedule Widget - clients can quickly see the latest schedule and sign up or pay for a class without ever leaving your website.
-** Calendar or list view options
-** Shows single or multi-locations
-** Automatically switches to mobile view when viewed from iPhone or Android phone
-** E-commerce integration with MINDBODY account via integrated HealCode's Consumer Cart
-** Shows classes and enrollments
-** Pick which day the schedule starts
-** Choose timeframe displayed
-** Class type and instructor filtering
-** Filter by day and/or time of day
-** Option to create a ‘Today’s Schedule’ widget
-** Fully customizable via CSS
-** Changes made in MINDBODY auto-update in real-time in the widget on a website
+Schedule Widget - clients can quickly see the latest schedule and sign up or pay for a class without ever leaving your website.
+* Calendar or list view options
+* Shows single or multi-locations
+* Automatically switches to mobile view when viewed from iPhone or Android phone
+* E-commerce integration with MINDBODY account via integrated HealCode's Consumer Cart
+* Shows classes and enrollments
+* Pick which day the schedule starts
+* Choose timeframe displayed
+* Class type and instructor filtering
+* Filter by day and/or time of day
+* Option to create a ‘Today’s Schedule’ widget
+* Fully customizable via CSS
+* Changes made in MINDBODY auto-update in real-time in the widget on a website
 
-* Enrollments Widget - clients can register and pay for the enrollments on the spot.
-** Set the timeframe, allows for up to a year.
-** Ability to hide enrollments already underway.
-** Select a summary or detailed views.
-** Narrow view also available for sidebars
-** Filter by day and/or time of day
-** Type and instructor filtering
-** Shows single or multi-locations
-** Fully customizable via CSS
-** Automatically switches to mobile view when viewed from iPhone or Android phone
-** E-commerce integration with MINDBODY account via integrated HealCode's Consumer Cart
-** Changes made in MINDBODY auto-update in real-time in the widget on a website
+Enrollments Widget - clients can register and pay for the enrollments on the spot.
+* Set the timeframe, allows for up to a year.
+* Ability to hide enrollments already underway.
+* Select a summary or detailed views.
+* Narrow view also available for sidebars
+* Filter by day and/or time of day
+* Type and instructor filtering
+* Shows single or multi-locations
+* Fully customizable via CSS
+* Automatically switches to mobile view when viewed from iPhone or Android phone
+* E-commerce integration with MINDBODY account via integrated HealCode's Consumer Cart
+* Changes made in MINDBODY auto-update in real-time in the widget on a website
 
-* Appointments Widget - clients can search for and book appointments
-** Supports new client sign-ups and purchases
-** Choose how many days are displayed
-** Instructor and session type filtering
-** Supports 'request' and 'book' appointment modes in MINDBODY
-** Shows single or multi-locations
-** Fully customizable via CSS
-** Automatically switches to mobile view when viewed from iPhone or Android phone
-** E-commerce integration with MINDBODY account via integrated HealCode's Consumer Cart
-** Changes made in MINDBODY auto-update in real-time in the widget on a website
+Appointments Widget - clients can search for and book appointments
+* Supports new client sign-ups and purchases
+* Choose how many days are displayed
+* Instructor and session type filtering
+* Supports 'request' and 'book' appointment modes in MINDBODY
+* Shows single or multi-locations
+* Fully customizable via CSS
+* Automatically switches to mobile view when viewed from iPhone or Android phone
+* E-commerce integration with MINDBODY account via integrated HealCode's Consumer Cart
+* Changes made in MINDBODY auto-update in real-time in the widget on a website
 
-* Registration Widget - clients can do paperless registration and get set up in your MINDBODY account.
-** Supports liability release agreements that are created/stored in MINDBODY
-** Creates profile in MINDBODY with information inputted by new registrant
-** Creates PDF of info supplied in profile in MINDBODY
-** Great for health intake or goal-setting forms
-** Get notified of new registrants
-** Constant Contact and Mailchimp integration
-** Fully customizable via CSS
+Registration Widget - clients can do paperless registration and get set up in your MINDBODY account.
+* Supports liability release agreements that are created/stored in MINDBODY
+* Creates profile in MINDBODY with information inputted by new registrant
+* Creates PDF of info supplied in profile in MINDBODY
+* Great for health intake or goal-setting forms
+* Get notified of new registrants
+* Constant Contact and Mailchimp integration
+* Fully customizable via CSS
 
-* Prospect Widget - leads fill this out when contacting you
-** Get notified of new prospects for better response time
-** Perfect for newsletter sign ups
-** Customize client indexes
-** Constant Contact and Mailchimp integration
-** Fully customizable via CSS
+Prospect Widget - leads fill this out when contacting you
+* Get notified of new prospects for better response time
+* Perfect for newsletter sign ups
+* Customize client indexes
+* Constant Contact and Mailchimp integration
+* Fully customizable via CSS
 
-* Staff List Widget - lists bios, photos and schedules of staff on a webpage
-** Staff bios, photos and schedule from MINDBODY get pulled down into the widget
-** Changes to MINDBODY automatically update on the website
-** Sort and order staff when displayed by widget on the website
-** Fully customizable via CSS
+Staff List Widget - lists bios, photos and schedules of staff on a webpage
+* Staff bios, photos and schedule from MINDBODY get pulled down into the widget
+* Changes to MINDBODY automatically update on the website
+* Sort and order staff when displayed by widget on the website
+* Fully customizable via CSS
 
-* Class List Widget - lists class descriptions, photos and schedules of classes on a webpage
-** Class descriptions, photos and schedule from MINDBODY get pulled down into the widget
-** Changes to MINDBODY automatically update on the website
-** Fully customizable via CSS
+Class List Widget - lists class descriptions, photos and schedules of classes on a webpage
+* Class descriptions, photos and schedule from MINDBODY get pulled down into the widget
+* Changes to MINDBODY automatically update on the website
+* Fully customizable via CSS
 
-* HealCode Consumer Cart
-** Provides full ecommerce integration with MINDBODY
-** Clients can see purchase history, their schedules, account balances and personal information
-** Clients can purchase items set up in MINDBODY using Pricing Options
-** New clients can register, existing clients can use their MINDBODY credentials to log in
+HealCode Consumer Cart
+* Provides full ecommerce integration with MINDBODY
+* Clients can see purchase history, their schedules, account balances and personal information
+* Clients can purchase items set up in MINDBODY using Pricing Options
+* New clients can register, existing clients can use their MINDBODY credentials to log in
 
 
 
