@@ -113,7 +113,8 @@ HealCode syncs with your MINDBODY account and can display MINDBODY information i
 
 = Using the Plugin = 
 
-[See our FAQ and video here.](https://healcode.zendesk.com/hc/en-us/articles/203647654)
+[See our FAQ here.](https://healcode.zendesk.com/hc/en-us/articles/203647654)
+[vimeo http://vimeo.com/117301143]
 
 
 
