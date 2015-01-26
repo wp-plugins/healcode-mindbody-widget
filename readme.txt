@@ -178,7 +178,7 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 2. This is the Widget’s entry after adding a Widget shortcode; you have the options of deactivating the widget, editing it, or deleting it.
 3. The dropdown in the TinyMCE editor. Widgets can quickly and easily be added to pages.
 4. This is a demo Schedule Widget that was installed using a Widget shortcode. Notice that the Schedule Widget is displaying real-time information from our demo MINDBODY account.
-5. Adding a widget to a sidebar using WordPress widgets (not to be consfused with HealCode widgets).
+5. Adding a HealCode Widget to a "sidebar" using WordPress widgets (not to be consfused with HealCode widgets).
 6. You can add a "Today's Schedule" widget to the sidebar.
 
 
