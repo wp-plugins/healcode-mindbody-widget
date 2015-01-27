@@ -116,6 +116,15 @@ HealCode syncs with your MINDBODY account and can display MINDBODY information i
 
 == Installation ==
 
+= Installing the Plugin =
+
+1. From within your WordPress dashboard, go to Plugins > Add New
+2. Search for "HealCode"
+3. Click "Install Now"
+4. Activate
+
+= Installing the Plugin (Developers) =
+
 1. Upload all the files and folders in the `healcode-mindbody-widget` folder to the `/wp-content/plugins/` directory
 2. In the admin panel under "Plugins" activate HealCode MINDBODY Widget
 
@@ -123,6 +132,9 @@ HealCode syncs with your MINDBODY account and can display MINDBODY information i
 
 [See our FAQ here.](https://healcode.zendesk.com/hc/en-us/articles/203647654)
 [vimeo http://vimeo.com/117301143]
+
+[HealCode MINDBODY Widget Plugin FAQ](https://healcode.zendesk.com/hc/en-us/articles/203647654-Putting-widgets-on-WordPress-ORG-using-shortcodes-generated-by-a-plugin-Advanced-)
+
 
 
 
@@ -172,6 +184,7 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 
 
 
+
 == Screenshots ==
 
 1. The “Add Widget Shortcode” page in the WordPress Dashboard
@@ -180,6 +193,8 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 4. This is a demo Schedule Widget that was installed using a Widget shortcode. Notice that the Schedule Widget is displaying real-time information from our demo MINDBODY account.
 5. Adding a HealCode Widget to a "sidebar" using WordPress widgets (not to be consfused with HealCode widgets).
 6. You can add a "Today's Schedule" widget to the sidebar.
+
+
 
 
 == Requirements ==
@@ -191,10 +206,14 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 
 
 
+
+
 == More Information for Developers ==
 
 * This plugin can also be used to add Service Links to pages, posts, and WordPress widget areas (such as sidebars and footers).
 * Using this plugin prevents accidental deletion of Service Links in the future, as the WordPress Visual Editor will stay enabled.
+
+
 
 
 
