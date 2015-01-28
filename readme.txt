@@ -133,7 +133,6 @@ HealCode syncs with your MINDBODY account and can display MINDBODY information i
 [See our FAQ here.](https://healcode.zendesk.com/hc/en-us/articles/203647654)
 [vimeo http://vimeo.com/117301143]
 
-[HealCode MINDBODY Widget Plugin FAQ](https://healcode.zendesk.com/hc/en-us/articles/203647654-Putting-widgets-on-WordPress-ORG-using-shortcodes-generated-by-a-plugin-Advanced-)
 
 
 
@@ -146,9 +145,10 @@ HealCode widgets are installed onto your website and Facebook pages and sync wit
 
 [Sign up for HealCode!](http://www.healcode.com/sign-up/ "Sign up for HealCode!")
 
-= How do I add a HealCode widget ? =
+= How do I add a HealCode Widget ? =
 
 See our [HealCode MINDBODY Widget Plugin FAQ](https://healcode.zendesk.com/hc/en-us/articles/203647654-Putting-widgets-on-WordPress-ORG-using-shortcodes-generated-by-a-plugin-Advanced-)
+[vimeo http://vimeo.com/117301143]
 
 = Where do I find my HealCode Widget code ? =
 
@@ -169,6 +169,10 @@ You can find instructions for installing a Widget with the plugin [here](https:/
 = How are these Widgets different from my current HealCode Widgets ? =
 
 These are exactly the same Widgets that you are currently using. They are just installed differently.
+
+= Is there another way to install the Widgets to my WordPress website? =
+
+Yes, see our FAQ [here](https://healcode.zendesk.com/hc/en-us/articles/202985730-Putting-widgets-on-WordPress-ORG).
 
 = HealCode MINDOBDY Widget is not working properly. =
 
