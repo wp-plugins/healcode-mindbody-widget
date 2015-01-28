@@ -148,6 +148,7 @@ HealCode widgets are installed onto your website and Facebook pages and sync wit
 = How do I add a HealCode Widget ? =
 
 See our [HealCode MINDBODY Widget Plugin FAQ](https://healcode.zendesk.com/hc/en-us/articles/203647654-Putting-widgets-on-WordPress-ORG-using-shortcodes-generated-by-a-plugin-Advanced-)
+
 [vimeo http://vimeo.com/117301143]
 
 = Where do I find my HealCode Widget code ? =
