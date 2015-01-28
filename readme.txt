@@ -1,7 +1,7 @@
 === HealCode MINDBODY Widget ===
 Contributors: healcode_wordpress 
 Donate link: http://healcode.com/
-Tags: HealCode, MINDBODY, add HealCode, insert Widget, insert Widgets, add Widget, add Widgets, add HealCode Widget, add HealCode Widgets, MINDBODY Widgets, shortcode, shortcodes, calendar, pear, schedule, soap, yoga, pilates, crossfit, mindbody website integration, mindbody api, sidebar, footer, header
+Tags: HealCode, MINDBODY, add HealCode, insert Widget, insert Widgets, add Widget, add Widgets, add HealCode Widget, add HealCode Widgets, MINDBODY Widgets, shortcode, shortcodes, calendar, pear, schedule, soap, yoga, pilates, crossfit, mindbody website integration, mindbody api, sidebar, footer, header, mindbody website integration
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: trunk
