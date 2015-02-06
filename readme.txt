@@ -215,8 +215,8 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 
 == More Information for Developers ==
 
-* This plugin can also be used to add Service Links to pages, posts, and WordPress widget areas (such as sidebars and footers).
-* Using this plugin prevents accidental deletion of Service Links in the future, as the WordPress Visual Editor will stay enabled.
+* This plugin can also be used to add HealCode Links to pages, posts, and WordPress widget areas (such as sidebars and footers).
+* Using this plugin prevents accidental deletion of HealCode Links in the future, as the WordPress Visual Editor will stay enabled.
 
 
 
