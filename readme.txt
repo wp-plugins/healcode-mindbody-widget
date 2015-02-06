@@ -31,7 +31,7 @@ HealCode syncs with your MINDBODY account and can display MINDBODY information i
 
 = Widget Features = 
 
-([see this page for a description of our Buy Now links and My Account link](https://healcode.zendesk.com/hc/en-us/articles/202867484--What-are-Service-Links-i-e-Buy-Now-links-My-Account-links-and-Cart-links-))
+([see this page for a description of our Buy Now links and Login | Register link](https://healcode.zendesk.com/hc/en-us/articles/202867484--What-are-Service-Links-i-e-Buy-Now-links-My-Account-links-and-Cart-links-))
 
 
 = Schedule Widget =
