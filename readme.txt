@@ -137,6 +137,7 @@ HealCode syncs with your MINDBODY account and can display MINDBODY information i
 
 
 
+
 == Frequently Asked Questions ==
 
 = What are HealCode Widgets? =
@@ -174,6 +175,10 @@ These are exactly the same Widgets that you are currently using. They are just i
 = Is there another way to install the Widgets to my WordPress website? =
 
 Yes, see our FAQ [here](https://healcode.zendesk.com/hc/en-us/articles/202985730-Putting-widgets-on-WordPress-ORG).
+
+= Does this plugin work with the Fusion Builder plugin? =
+
+Yes. You can use it within a text box. 
 
 = HealCode MINDOBDY Widget is not working properly. =
 
