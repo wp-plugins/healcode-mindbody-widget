@@ -4,7 +4,7 @@ Donate link: http://healcode.com/
 Tags: HealCode, MINDBODY, add HealCode, insert Widget, insert Widgets, add Widget, add Widgets, add HealCode Widget, add HealCode Widgets, MINDBODY Widgets, shortcode, shortcodes, calendar, pear, schedule, soap, yoga, pilates, crossfit, mindbody website integration, mindbody api, sidebar, footer, header, mindbody website integration
 Requires at least: 3.0
 Tested up to: 4.2.2
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -238,6 +238,8 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 = 1.0.3 =
 * Bug fix - fixed the shortcodes on the Widget Shortcodes screen
 * Adjusted text in the WordPress widget screen
+= 1.0.5 =
+* Compatibility with WordPress 4.2.2
 
 
 
@@ -249,3 +251,5 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 * Image change
 = 1.0.3 =
 * Bug fix
+= 1.0.5 =
+* Compatibility with WordPress 4.2.2
